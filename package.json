@@ -1,0 +1,18 @@
+{
+  "name": "pixi-slot-game",
+  "version": "1.0.0",
+  "description": "Slot game built with PIXI.js",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pixi.js": "^7.3.2",
+    "howler": "^2.2.4"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
