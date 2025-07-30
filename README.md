@@ -90,4 +90,4 @@ src/
 ├── config/
 │   └── gameConfig.js    # Конфигурация игры
 └── index.js             # Точка входа
-```
+```test change
