@@ -91,3 +91,4 @@ src/
 │   └── gameConfig.js    # Конфигурация игры
 └── index.js             # Точка входа
 ```test change
+# Force redeploy
